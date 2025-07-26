@@ -36,12 +36,5 @@ I'm a front-end developer passionate about building user-friendly and visually e
 
 📧 zberke97@gmail.com
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zopirli-berke&show_icons=true&theme=react&hide=issues&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopirli-berke&layout=compact&theme=react" height="180"/>
-</p>
 
