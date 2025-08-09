@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzaWpxZXcxcWRhbm1ocDBoN2UzOHowNm0xNW40bTh6cGM0c3g4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="100%" alt="Welcome Banner" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtwYjM0MXBrbzZyeXJvNjFhNjA0dHRva3hlY2J0N3I4b3lvaDR4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QS0KOjNRG0tfG/giphy.gif" width="100%" alt="Welcome Banner" />
 
 # 👋 Hi, I'm Berke!
 
