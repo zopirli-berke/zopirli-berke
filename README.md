@@ -9,7 +9,7 @@ React enthusiast ⚛️ | Tailwind & JS wizard ⚡ | Exploring Node.js 🚀
 
 ## ⚡ Tech Stack & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,git,github,vscode&theme=dark" />
 </p>
 
