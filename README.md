@@ -2,8 +2,7 @@
 
 # 👋 Hey, I'm Berke
 
-Front-end developer who loves turning ideas into code ✨  
-React enthusiast ⚛️ | Tailwind & JS wizard ⚡ | Exploring Node.js 🚀  
+
 
 ---
 
